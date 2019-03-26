@@ -1,0 +1,14 @@
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.deps.json
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.json
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.runtimeconfig.dev.json
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.dll
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\bin\Debug\netcoreapp2.2\DatingApp.API.pdb
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csprojAssemblyReference.cache
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.csproj.CoreCompileInputs.cache
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cache
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorAssemblyInfo.cs
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfoInputs.cache
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.AssemblyInfo.cs
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.RazorTargetAssemblyInfo.cache
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.dll
+c:\Users\seyi_lowo\Desktop\projects\datingApp\DatingApp.API\obj\Debug\netcoreapp2.2\DatingApp.API.pdb
